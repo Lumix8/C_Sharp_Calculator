@@ -1,2 +1,2 @@
 # C# Calculator
-Simple Console Calculator with multilevel scalable menu system. 
+Simple console calculator with multilevel scalable menu system. 
